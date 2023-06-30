@@ -1,0 +1,31 @@
+html {
+  background-color: teal;
+}
+
+.main-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+#leader-input {
+  height: 50px;
+  width: 300px;
+}
+
+#flag-container {
+  width: 300px;
+  height: 200px;
+  border: 3px solid blue;
+  border-radius: 10px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
